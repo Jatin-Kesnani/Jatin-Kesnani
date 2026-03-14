@@ -1,3 +1,4 @@
+![Banner](cover.png)
 # Hi, I'm Jatin Kesnani
 
 **Full-Stack Software Engineer | Mobile & Web Developer | Tech Enthusiast**
