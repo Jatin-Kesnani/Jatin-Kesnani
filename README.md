@@ -80,45 +80,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. **Flexiplan: AI-Powered Routine Balancer**
-Full-stack Django application for intelligent routine management with AI-powered recommendations and messaging features.
-- **Stack:** Django, PostgreSQL, React
-- **Key Skills:** Backend Development, Database Design, Web Development
-
-### 2. **Mind Booster: A Mobile App for Mental Wellness**
-Mobile wellness application with gaming features, community engagement, and mental health support.
-- **Stack:** React Native, Express.js, MongoDB, Node.js
-- **Key Skills:** Mobile Development, Full-Stack Development
-
-### 3. **RydeSync Carpooling Platform**
-Full-featured carpooling platform with ride matching, user authentication, and transaction management.
-- **Stack:** PHP, MySQL, Bootstrap, Tailwind CSS
-- **Key Skills:** Web Development, Database Management, UI/UX
-
-### 4. **Restaurant Reservation Web App**
-Admin-user dual platform for restaurant reservations with role-based access control.
-- **Stack:** React, Node.js, Express.js, MongoDB
-- **Key Skills:** Full-Stack Development, Authentication, Web Architecture
-
-### 5. **Automating DevOps Workflows**
-Kubernetes automation tool with Slack integration for managing pods, deployments, and monitoring.
-- **Stack:** Python, Kubernetes, Slack API
-- **Key Skills:** DevOps, Kubernetes, Automation
-
-### 6. **Sarcasm Detection Feature Selection**
-Machine learning model for detecting sarcasm in headlines using feature selection and NLP techniques.
-- **Stack:** Python, TensorFlow, Scikit-learn, Jupyter Notebooks
-- **Key Skills:** ML/AI, NLP, Data Science
-
-### 7. **Job Resume Matching System**
-ML system using TF-IDF and cosine similarity to match resumes with job descriptions. Features GUI with tkinter, PDF text extraction, and intelligent job matching.
-- **Stack:** Python, NLTK, pdfminer, tkinter
-- **Key Skills:** ML, NLP, GUI Development
-
----
-
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jatinkesnani2003@gmail.com)
